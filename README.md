@@ -41,7 +41,7 @@
 ![](https://torres.ai/wp-content/uploads/2019/09/redes-neuronales-recurrentes-deep-learning-jordi-torres-1024x535.png)
 
 
-#Neuronas McCulloch-Pitts (MCP)
+# Neuronas McCulloch-Pitts (MCP)
 
 - Se incluyen prácticas donde se implementan neuronas MCP para simular compuertas lógicas básicas:
 
