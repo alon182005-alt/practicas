@@ -32,7 +32,7 @@
 ![](https://www.bravent.net/wp-content/uploads/2020/12/Redes-neuronales-procesamiento-imagenes.jpg)
 
 
-#Redes Neuronales Recurrentes (RNN)
+# Redes Neuronales Recurrentes (RNN)
 - Predicción de secuencias numéricas
 
 - Clasificación basada en patrones temporales
@@ -53,12 +53,12 @@
 
 - Ejemplo de tabla de verdad y funcionamiento.
 
-###Compuerta OR
+### Compuerta OR
 
 - Neurona MCP con dos entradas.
 
 - Configuración de pesos y umbral para activar la salida cuando al menos una entrada es 1.
-#🛠️ Tecnologías utilizadas
+# 🛠️ Tecnologías utilizadas
 
 - Python 
 
