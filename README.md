@@ -14,7 +14,7 @@
 
 - Entrenamiento paso a paso
 
-- Visualización de la función de pérdida y la precisió
+- Visualización de la función de pérdida y la precisión
 
 ![](https://antonio-richaud.com/blog/imagenes/archivo/41-redes-perceptron-multicapa/redes-perceptron-multicapa-banner.jpg)
 
