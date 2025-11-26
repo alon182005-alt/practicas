@@ -1,4 +1,4 @@
-# Prácticas de Redes Neuronales :fa-github-square:
+# Prácticas de Redes Neuronales 
 
 - Este repositorio contiene una colección de prácticas enfocadas en el uso y comprensión de distintos tipos de redes neuronales aplicadas a problemas reales. Los ejemplos están desarrollados en Python utilizando librerías como TensorFlow, Keras, NumPy, Pandas y herramientas de visualización.
 
@@ -29,7 +29,7 @@
 - Reconocimiento de objetos simples
 
 - Construcción de capas convolucionales
-![](https://www.aprendemachinelearning.com/wp-content/uploads/2018/11/cnn-02.png)
+![](https://www.bravent.net/wp-content/uploads/2020/12/Redes-neuronales-procesamiento-imagenes.jpg)
 
 
 #Redes Neuronales Recurrentes (RNN)
